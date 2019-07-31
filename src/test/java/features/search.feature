@@ -1,6 +1,6 @@
 Feature: Search Functionality
 
-  
+
 
 
   Background:
