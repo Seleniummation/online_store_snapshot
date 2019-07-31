@@ -4,7 +4,7 @@ Feature: Basket
   Background:
     Given I am on ebuyer home page
 
-  Scenario Outline: Proceed to checkout
+  Scenario Outline: Proceed to checkouts
     And I enter "<product>" description into search text box
     And I click search button
     And I click add to basket button
